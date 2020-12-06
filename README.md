@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
-  <a href="https://github.com/skydoves/Pokedex/actions"><img alt="Build Status" src="https://github.com/thinktocode/PokeDex/workflows/Android%20CI/badge.svg"/></a> 
+  <a href="https://github.com/thinktocode/Pokedex/actions"><img alt="Build Status" src="https://github.com/thinktocode/PokeDex/workflows/Android%20CI/badge.svg"/></a> 
   
 
 <p align="center">  
@@ -52,9 +52,6 @@ Pokedex is based on MVVM architecture and a repository pattern.
 Pokedex using the [PokeAPI](https://pokeapi.co/) for constructing RESTful API.<br>
 PokeAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
 
-## Find this repository useful? :heart:
-Support it by joining __[stargazers](https://github.com/thinktocode/PokeDex/stargazers)__ for this repository. :star: <br>
-And __[follow](https://github.com/skydoves)__ me for my next creations! 🤩
 
 # License
 ```xml
