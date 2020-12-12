@@ -16,8 +16,6 @@ Also fetching data from the network and integrating persisted data in the databa
 <img src="/previews/screenshot.png"/>
 </p>
 
-## Download
-Go to the [Releases](https://github.com/thinktocode/PokeDex/releases) to download the latest APK.
 
 
 <img src="/previews/preview.gif" align="right" width="32%"/>
