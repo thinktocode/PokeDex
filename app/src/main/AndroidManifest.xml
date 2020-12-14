@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
-  package="com.skydoves.pokedex">
+  package="com.namanbir.pokedex.namanbir.pokedex">
 
   <uses-permission android:name="android.permission.INTERNET" />
 
@@ -31,12 +31,12 @@
 
     <provider
       android:name="androidx.startup.InitializationProvider"
-      android:authorities="com.skydoves.pokedex.androidx-startup"
+      android:authorities="com.namanbir.pokedex.androidx-startup"
       android:exported="false"
       tools:node="merge">
 
       <meta-data
-        android:name="com.skydoves.pokedex.initializer.TimberInitializer"
+        android:name="com.namanbir.pokedex.initializer.TimberInitializer"
         android:value="androidx.startup" />
     </provider>
   </application>
