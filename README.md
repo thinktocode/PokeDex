@@ -6,35 +6,22 @@
 Pokedex app built with Kotlin
 </h1>
 
-<p align="center">
-  <a href="https://github.com/KotlinBy/awesome-kotlin">
-    <img src="https://kotlin.link/awesome-kotlin.svg" alt="Awesome Kotlin">
-  </a>
+
   
-  <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex/actions">
-    <img src="https://github.com/mrcsxsiq/Kotlin-Pokedex/workflows/Android%20CI/badge.svg" alt="Android CI">
+  <a href="https://github.com/thinktocode/PokeDex/actions">
+    <img src="https://github.com/thinktocode/PokeDex/workflows/Android%20CI/badge.svg" alt="Android CI">
   </a>
   
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License MIT">
   </a>
   
-  <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex/stargazers">
+  <a href="https://github.com/thinktocode/PokeDex/stargazers">
     <img src="https://img.shields.io/badge/Say%20Thanks-👍-1EAEDB.svg" alt="Say thanks">
   </a>
 </p>
 
-## Download
 
-Go to the [releases page](https://github.com/mrcsxsiq/Kotlin-Pokedex/releases) to download the latest available apk.
-
-<!--
-Also available in Play Store
-
-<a href="https://github.com/mrcsxsiq/Kotlin-Pokedex/">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="Play Store">
-</a>
--->
 
 ## Screenshots
 
@@ -89,29 +76,7 @@ Also available in Play Store
 - [x] Pokemon Info - Evolution
 - [x] News Detail
 
-## Thanks
 
-- [Márton Braun](https://github.com/zsmb13) for his [article](https://zsmb.co/lets-review-pokedex/) and [code review](https://github.com/mrcsxsiq/Kotlin-Pokedex/pull/3)
-
-## Design
-
-- [Saepul Nahwan](https://dribbble.com/saepulnahwan23) for his [Pokedex App design](https://dribbble.com/shots/6545819-Pokedex-App)
-
-## Other Pokedex Projects
-
-- [Zsolt Kocsi](https://github.com/zsoltk/compose-pokedex) - Android on Jetpack Compose
-- [Pham Sy Hung](https://github.com/scitbiz/flutter_pokedex/) - Flutter
-
-
-## Contributors
-
-| [<img src="https://avatars3.githubusercontent.com/u/12054216?s=115&v=4" width="48"><br><sub>@zsmb13</sub>](https://github.com/zsmb13) | [<img src="https://avatars0.githubusercontent.com/u/8435541?s=115&v=4" width="48"><br><sub>@aesean</sub>](https://github.com/aesean) | [<img src="https://avatars1.githubusercontent.com/u/988405?s=115&v=4" width="48"><br><sub>@STFBEE</sub>](https://github.com/STFBEE) | [<img src="https://avatars1.githubusercontent.com/u/25616312?s=115&v=4" width="48"><br><sub>@CorneilleEdi</sub>](https://github.com/CorneilleEdi) | [<img src="https://avatars2.githubusercontent.com/u/15768474?s=115&v=4" width="48"><br><sub>@naufalprakoso</sub>](https://github.com/naufalprakoso) | [<img src="https://user-images.githubusercontent.com/95717/60592969-5da81680-9d67-11e9-92a3-8664ee0e2eda.png" width="48"><br><sub>You</sub>](https://github.com/mrcsxsiq/Kotlin-Pokedex/pulls) |
-| :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
-
-## Author
-
-| [<img src="https://avatars3.githubusercontent.com/u/993608?s=115&v=4" width="48"><br><sub>@mrcsxsiq</sub>](https://github.com/mrcxsiq) |
-| :---: |
 
 ## License
 
@@ -120,7 +85,7 @@ All the code available under the MIT license. See [LICENSE](LICENSE).
 ```
 MIT License
 
-Copyright (c) 2019 Marcos Paulo Farias
+Copyright (c) 2020 thinktocode Namanbir Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
