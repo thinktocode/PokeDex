@@ -1,10 +1,8 @@
 <h1 align="center">
 <br>
-  <img src="screenshots/kotlin.png" width="300" alt="Kotlin Pokedex">
 <br>
 <br>
-Pokedex app built with Kotlin
-</h1>
+Pokedex</h1>
 
 
   
@@ -21,6 +19,9 @@ Pokedex app built with Kotlin
   </a>
 </p>
 
+## MAD Score
+![summary](https://user-images.githubusercontent.com/24237865/102366914-84f6b000-3ffc-11eb-8d49-b20694239782.png)
+![kotlin](https://user-images.githubusercontent.com/24237865/102366932-8a53fa80-3ffc-11eb-8131-fd6745a6f079.png)
 
 
 ## Screenshots
