@@ -12,7 +12,7 @@ Pokedex</h1>
   </a>
   
   <a href="https://github.com/thinktocode/PokeDex/stargazers">
-    <img src="https://img.shields.io/badge/Say%20Thanks-👍-1EAEDB.svg" alt="Say thanks">
+    <img src="https://img.shields.io/badge/Say%20Thanks-👍-1EAEDB.svg" alt="Say thank">
   </a>
 </p>
 
