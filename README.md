@@ -2,7 +2,7 @@
 Pokedex</h1>
 
 
-  
+  <p align="center">
   <a href="https://github.com/thinktocode/PokeDex/actions">
     <img src="https://github.com/thinktocode/PokeDex/workflows/Android%20CI/badge.svg" alt="Android CI">
   </a>
