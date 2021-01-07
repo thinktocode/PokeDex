@@ -11,11 +11,6 @@ Pokedex</h1>
     <img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License MIT">
   </a>
   
-  <a href="https://github.com/thinktocode/PokeDex/stargazers">
-    <img src="https://img.shields.io/badge/Say%20Thanks-👍-1EAEDB.svg" alt="Say thank">
-  </a>
-</p>
-
 
 
 ## Screenshots
